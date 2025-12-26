@@ -282,7 +282,7 @@ void GeneralWidget::AddDescriptions()
   static const char TR_SHADER_COMPILE_SKIP_DRAWING_DESCRIPTION[] = QT_TR_NOOP(
       "Prevents shader compilation stuttering by not rendering waiting objects. Can work in "
       "scenarios where Ubershaders doesn't, at the cost of introducing visual glitches and broken "
-      "effects.<br><br><dolphin_emphasis>If unsure, leave this unchecked.</dolphin_emphasis>");
+      "effects.<br><br><dolphin_emphasis>If unsure, leave this checked.</dolphin_emphasis>");
   static const char TR_SHADER_COMPILE_BEFORE_START_DESCRIPTION[] =
       QT_TR_NOOP("Waits for all shaders to finish compiling before starting a game. Enabling this "
                  "option may reduce stuttering or hitching for a short time after the game is "
