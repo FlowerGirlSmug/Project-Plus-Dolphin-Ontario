@@ -9,7 +9,7 @@
 
 namespace Common
 {
-#define EMULATOR_NAME "IrisIsStooPeed"
+#define EMULATOR_NAME "PizzaHelpMePLZ"
 
 #ifdef _DEBUG
 #define BUILD_TYPE_STR "Debug "
